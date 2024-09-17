@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/* CSS Reset */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+/* CSS */
+div {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 10px;
+    border: 2px solid 
+  black;
+  }
